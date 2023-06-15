@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tynybekovemir
 - 👀 I’m interested in beckend developer
-- 🌱 I’m currently learning ...beckend develope
-- 💞️ I’m looking to collaborate on ...beckend developebeckend develope
-- 📫 How to reach me ...beckend develope
+- 🌱 I’m currently learning beckend developer
+- 💞️ I’m looking to collaborate on beckend developer
+- 📫 How to reach me I'm just fucking
 
 <!---
 tynybekovemir/tynybekovemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
